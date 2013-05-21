@@ -1,0 +1,12 @@
+
+
+		Type = 4
+
+
+		Count = 374
+
+
+		The strip offset is = 4750 
+File Size =2963267, Image Size =2958517
+Length = 2243 
+Width = 1319 
