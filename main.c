@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     //printContourSet(contourSet);
     //writeContourPts(argv[2],components,contourSet,length,width);
     
-    //printArr(components, length, width, wFile);
+    printArr(components, length, width, wFile);
     
     fclose(wFile);
     
